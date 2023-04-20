@@ -11,7 +11,7 @@ cursor = conexao.cursor()
 #Conectado ao BD
 # 4 Métodos: CRUD
 # Editando o banco, tem que usar o conexao.commit()
-comando = 
+
 
 
 
